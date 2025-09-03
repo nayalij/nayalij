@@ -2,7 +2,7 @@
 <h1 align="center">✨ Hi, I'm Nayali Jayawardena ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E75480&center=true&vCenter=true&width=500&lines=Software+Engineering+Undergraduate;Full+Stack+Developer;IoT+%7C+AI+Enthusiast;Creative+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E75480&center=true&vCenter=true&width=500&lines=Software+Engineering+Undergraduate;Full+Stack+Developer;+%7C+AI+Enthusiast;Creative+Tech+Explorer" alt="Typing SVG" />
 </p>
 
 ---
