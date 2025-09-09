@@ -89,6 +89,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nayalij/nayalij/main/wave.svg" alt="Wave animation"/>
-</p>
